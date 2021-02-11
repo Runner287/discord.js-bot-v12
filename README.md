@@ -1,5 +1,0 @@
-# discord.js-bot-v12
-A POWER FULL DISCORD BOT
-
-DON'T FORGET TO SUBSCRIBE YT CHANNEL 
-https://youtu.be/7HP-a3Z-Bqk
